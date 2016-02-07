@@ -1,5 +1,6 @@
-""" This is an Asteroid game. To run the program, the code should be copied to http://www.codeskulptor.org/ and run. The arrow keys of the keyboard controls the movement of the spaceship in in left, righ, up and down  directions and the space bar is used for shooting the asteroids.
-
+""" This is an Asteroid game. To run the program, the code should be copied to http://www.codeskulptor.org/ and run. 
+The arrow keys of the keyboard controls the movement of the spaceship in in left, righ, up and down  directions and 
+the space bar is used for shooting the asteroids.
 
 author: M. Moshiur Rahman
 
